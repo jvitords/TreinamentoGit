@@ -8,8 +8,10 @@ public class Program3 {
 		
 		System.out.println("Program 3");
 		System.out.println("Teste pra ver se dá erro no git ao fazer o push");
+
 		System.out.println("Sou do local");
 
+		
 	}
 
 }
